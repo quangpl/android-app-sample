@@ -1,0 +1,9 @@
+version: "3.8"
+services:
+  android-builder:
+    image: mingc/android-build-box
+    tty: true
+    volumes:
+      - .:/home/project
+volumes:
+  logvolume01: {}
