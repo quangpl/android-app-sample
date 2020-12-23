@@ -1,3 +1,6 @@
 # android-app-sample
 
-s
+8
+add dev
+a
+7
